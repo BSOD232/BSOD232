@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Clique](https://github.com/BSOD232/clique)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS, Typescript, C#, and Lua**
 
 - 📫 How to reach me **billy@super-cool.dev**
 
