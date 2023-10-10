@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bsod232" alt="bsod232" /></a> </p>
 
-- 🔭 I’m currently working on [Clique](https://github.com/BSOD232/clique)
+- 🔭 I’m currently working on [Tidal](https://tidal.watr16.xyz)
 
 - 🌱 I’m currently learning **NodeJS, Typescript, C#, and Lua**
 
